@@ -1,0 +1,50 @@
+{
+    "user": "",
+    "pass": "",
+    "admin": false,
+    "forms": {
+        "database": [
+            {
+                "id": "form0001",
+                "title": "formulario1",
+                "desc": "desc"
+            }
+        ]
+    },
+    "questions": {
+        "database": [
+            {
+                "id": "ques0001",
+                "type": "A",
+                "title": "test",
+                "answers": [
+                    "a",
+                    "b",
+                    "c",
+                    "d"
+                ]
+            }
+        ]
+    },
+    "companies": {
+        "database": [
+            {
+                "id": "comp0001",
+                "user": "abc",
+                "pass": "123",
+                "type": "Ejemplo",
+                "mail": "ejemplo@ejemplo.com",
+                "address": "abc #123"
+            }
+        ]
+    },
+    "admins":{
+        "database":[
+            {
+                "id":"adm1",
+                "username":"admin",
+                "password":"admin"
+            }
+        ]
+    }
+}
